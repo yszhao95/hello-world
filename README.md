@@ -1,2 +1,4 @@
 # hello-world
-just a test
+just a guide-test
+tensorflow learning 
+thanks
